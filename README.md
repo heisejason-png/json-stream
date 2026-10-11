@@ -94,5 +94,5 @@ $ bin/rake test
 ## License
 
 JSON::Stream is released under the MIT license. Check the LICENSE file for details.
-Created by Jason Scott Heise
-Owned by Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Gitters
