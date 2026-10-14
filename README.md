@@ -96,3 +96,4 @@ $ bin/rake test
 JSON::Stream is released under the MIT license. Check the LICENSE file for details.
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Gitters
+https://facebook.com
